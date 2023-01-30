@@ -1,0 +1,14 @@
+nav{
+  text-align: right;
+}
+
+.btn{
+    background-color: #1f80e0;
+    color: #fff;
+}
+
+.brand-logo {
+    height: 70px;
+    margin-right: auto;
+    padding: 0;
+}
